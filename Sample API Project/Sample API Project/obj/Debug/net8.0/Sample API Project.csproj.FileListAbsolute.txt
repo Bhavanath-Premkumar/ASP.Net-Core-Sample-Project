@@ -1,0 +1,32 @@
+D:\Projects\DotNet Core\Sample API Project\Sample API Project\bin\Debug\net8.0\appsettings.Development.json
+D:\Projects\DotNet Core\Sample API Project\Sample API Project\bin\Debug\net8.0\appsettings.json
+D:\Projects\DotNet Core\Sample API Project\Sample API Project\bin\Debug\net8.0\Sample API Project.exe
+D:\Projects\DotNet Core\Sample API Project\Sample API Project\bin\Debug\net8.0\Sample API Project.deps.json
+D:\Projects\DotNet Core\Sample API Project\Sample API Project\bin\Debug\net8.0\Sample API Project.runtimeconfig.json
+D:\Projects\DotNet Core\Sample API Project\Sample API Project\bin\Debug\net8.0\Sample API Project.dll
+D:\Projects\DotNet Core\Sample API Project\Sample API Project\bin\Debug\net8.0\Sample API Project.pdb
+D:\Projects\DotNet Core\Sample API Project\Sample API Project\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Projects\DotNet Core\Sample API Project\Sample API Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\DotNet Core\Sample API Project\Sample API Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\DotNet Core\Sample API Project\Sample API Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\DotNet Core\Sample API Project\Sample API Project\obj\Debug\net8.0\Sample API Project.csproj.AssemblyReference.cache
+D:\Projects\DotNet Core\Sample API Project\Sample API Project\obj\Debug\net8.0\Sample API Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DotNet Core\Sample API Project\Sample API Project\obj\Debug\net8.0\Sample API Project.AssemblyInfoInputs.cache
+D:\Projects\DotNet Core\Sample API Project\Sample API Project\obj\Debug\net8.0\Sample API Project.AssemblyInfo.cs
+D:\Projects\DotNet Core\Sample API Project\Sample API Project\obj\Debug\net8.0\Sample API Project.csproj.CoreCompileInputs.cache
+D:\Projects\DotNet Core\Sample API Project\Sample API Project\obj\Debug\net8.0\Sample API Project.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\DotNet Core\Sample API Project\Sample API Project\obj\Debug\net8.0\Sample API Project.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\DotNet Core\Sample API Project\Sample API Project\obj\Debug\net8.0\staticwebassets.build.json
+D:\Projects\DotNet Core\Sample API Project\Sample API Project\obj\Debug\net8.0\staticwebassets.development.json
+D:\Projects\DotNet Core\Sample API Project\Sample API Project\obj\Debug\net8.0\staticwebassets\msbuild.Sample API Project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\DotNet Core\Sample API Project\Sample API Project\obj\Debug\net8.0\staticwebassets\msbuild.build.Sample API Project.props
+D:\Projects\DotNet Core\Sample API Project\Sample API Project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Sample API Project.props
+D:\Projects\DotNet Core\Sample API Project\Sample API Project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Sample API Project.props
+D:\Projects\DotNet Core\Sample API Project\Sample API Project\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Projects\DotNet Core\Sample API Project\Sample API Project\obj\Debug\net8.0\scopedcss\bundle\Sample API Project.styles.css
+D:\Projects\DotNet Core\Sample API Project\Sample API Project\obj\Debug\net8.0\Sample A.E28B5B37.Up2Date
+D:\Projects\DotNet Core\Sample API Project\Sample API Project\obj\Debug\net8.0\Sample API Project.dll
+D:\Projects\DotNet Core\Sample API Project\Sample API Project\obj\Debug\net8.0\refint\Sample API Project.dll
+D:\Projects\DotNet Core\Sample API Project\Sample API Project\obj\Debug\net8.0\Sample API Project.pdb
+D:\Projects\DotNet Core\Sample API Project\Sample API Project\obj\Debug\net8.0\Sample API Project.genruntimeconfig.cache
+D:\Projects\DotNet Core\Sample API Project\Sample API Project\obj\Debug\net8.0\ref\Sample API Project.dll
